@@ -1,6 +1,13 @@
 # whatsapp_clone
 
-A new Flutter project.
+A whatsapp clone (UI basically)
+
+Snapshots
+![WhatsApp Image 2022-02-03 at 12 39 06 AM](https://user-images.githubusercontent.com/64984175/152256359-62853250-78a0-4abb-9380-362a9fabd10c.jpeg)
+![WhatsApp Image 2022-02-03 at 12 39 05 AM](https://user-images.githubusercontent.com/64984175/152256367-f5027ea9-43ba-4f06-9592-3c3a979d1db4.jpeg)
+![WhatsApp Image 2022-02-03 at 12 39 06 AM (1)](https://user-images.githubusercontent.com/64984175/152256385-6fade193-4552-48da-9f57-89ec240a70b4.jpeg)
+
+
 
 ## Getting Started
 
